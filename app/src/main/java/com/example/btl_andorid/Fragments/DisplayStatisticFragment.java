@@ -12,15 +12,15 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.sinhvien.orderdrinkapp.Activities.BillView;
-import com.sinhvien.orderdrinkapp.Activities.DetailStatisticActivity;
-import com.sinhvien.orderdrinkapp.Activities.HomeActivity;
-import com.sinhvien.orderdrinkapp.Activities.StaticThongKe;
-import com.sinhvien.orderdrinkapp.CustomAdapter.AdapterDisplayStatistic;
-import com.sinhvien.orderdrinkapp.CustomAdapter.IonclickItem;
-import com.sinhvien.orderdrinkapp.DAO.DonDatDAO;
-import com.sinhvien.orderdrinkapp.DTO.DonDatDTO;
-import com.sinhvien.orderdrinkapp.R;
+import com.example.btl_andorid.Activities.BillView;
+import com.example.btl_andorid.Activities.DetailStatisticActivity;
+import com.example.btl_andorid.Activities.HomeActivity;
+import com.example.btl_andorid.Activities.StaticThongKe;
+import com.example.btl_andorid.CustomAdapter.AdapterDisplayStatistic;
+import com.example.btl_andorid.CustomAdapter.IonclickItem;
+import com.example.btl_andorid.DAO.DonDatDAO;
+import com.example.btl_andorid.DTO.DonDatDTO;
+import com.example.btl_andorid.R;
 
 import java.util.List;
 
